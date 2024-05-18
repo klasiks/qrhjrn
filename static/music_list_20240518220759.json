@@ -1,0 +1,128 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "fe634fd82e4137d764552094fa5d0fda",
+                "name": "1",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر    1 Qara Hijran",
+                "url": "static/Qara hijran/1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "fe634fd82e4137d764552094fa5d0fda",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "7a325c7d1feb5b77e89a137d05548ed0",
+                "name": "2",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر    2 Qara Hijran",
+                "url": "static/Qara hijran/2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "7a325c7d1feb5b77e89a137d05548ed0",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "1d45eefdf129134558c031f30c415f94",
+                "name": "3",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   3 Qara Hijran",
+                "url": "static/Qara hijran/3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "1d45eefdf129134558c031f30c415f94",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "548157ba74eb41dc24b4e8042c75a9b2",
+                "name": "4",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   4 Qara Hijran",
+                "url": "static/Qara hijran/4.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "548157ba74eb41dc24b4e8042c75a9b2",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "3231cda3d63b4c5f938b0da8a656c5b1",
+                "name": "5",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   5 Qara Hijran",
+                "url": "static/Qara hijran/5.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "3231cda3d63b4c5f938b0da8a656c5b1",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "2c38c5d6321d11010e721539597e0c49",
+                "name": "6",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   6 Qara Hijran",
+                "url": "static/Qara hijran/6.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "2c38c5d6321d11010e721539597e0c49",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f742725660ac5e34cc80d7deef4bd068",
+                "name": "7",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   7 Qara Hijran",
+                "url": "static/Qara hijran/7.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f742725660ac5e34cc80d7deef4bd068",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b2bf7a6aaa9624b1f883c0b5cbb5c1fc",
+                "name": "8",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   8 Qara Hijran",
+                "url": "static/Qara hijran/8.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b2bf7a6aaa9624b1f883c0b5cbb5c1fc",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "b96adc98bcc8e14b5f605aa7df7c9cf1",
+                "name": "9",
+                "artist": "TevpikAy FMA",
+                "album": "قارا ھىجران  ئابدۇرېھىم ئۆتكۈر   9 Qara Hijran",
+                "url": "static/Qara hijran/9.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "b96adc98bcc8e14b5f605aa7df7c9cf1",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
